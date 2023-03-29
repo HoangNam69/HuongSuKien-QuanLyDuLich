@@ -1,0 +1,9 @@
+#EFF5F5 
+#D6E4E5 
+#497174 
+#EB6440 
+
+rgb(239, 245, 245) text head + foot
+rgb(214, 228, 229) background
+rgb(73, 113, 116) head + foot
+rgb(235, 100, 64) button
